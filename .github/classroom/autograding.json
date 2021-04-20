@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Pop_Test",
+      "setup": "",
+      "run": "make test_zero",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Push_Test",
+      "setup": "",
+      "run": "make test_one",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Empty_Test",
+      "setup": "",
+      "run": "make test_two",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Peek_Test",
+      "setup": "",
+      "run": "make test_three",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "All_Test",
+      "setup": "",
+      "run": "make test_all",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
